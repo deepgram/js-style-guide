@@ -8,6 +8,7 @@ const disabledRules = {
   'react/prop-types': 'off',
   // Disable requiring React to be imported, as this is no longer required.
   'react/react-in-jsx-scope': 'off',
+  'react/jsx-sort-props': 'off',
 };
 
 module.exports = {
