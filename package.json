@@ -1,14 +1,14 @@
 {
-  "name": "@vercel/style-guide",
-  "version": "6.0.0",
-  "description": "Vercel's engineering style guide",
-  "homepage": "https://github.com/vercel/style-guide#readme",
+  "name": "@deepgram/style-guide",
+  "version": "0.0.1",
+  "description": "Deepgram's engineering style guide",
+  "homepage": "https://github.com/deepgram/js-style-guide#readme",
   "bugs": {
-    "url": "https://github.com/vercel/style-guide/issues"
+    "url": "https://github.com/deepgram/js-style-guide/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/vercel/style-guide.git"
+    "url": "https://github.com/deepgram/js-style-guide.git"
   },
   "license": "MPL-2.0",
   "exports": {
